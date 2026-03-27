@@ -1,0 +1,5 @@
+[project]
+dependencies = [
+    "flask>=2.3.0",
+    "requests>=2.31.0"
+]
